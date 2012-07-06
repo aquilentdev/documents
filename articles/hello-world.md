@@ -2,4 +2,4 @@
 
 I am supposed to be a collaboratively written sharable document on GitHub. 
 
-You can find me [here](http://prose.io/#prose/documents/blob/master/2012-07-06-your-filename.md). Or on GitHub if you prefer that.
+You can find me [here](http://prose.io/#prose/documents/blob/master/articles/hello-world.md). Or on [GitHub](http://github.com/prose/documents/blob/master/articles/hello-world.md) if you prefer that.
